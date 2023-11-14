@@ -1,0 +1,6 @@
+Pasos para la instalación:
+
+1.- cree la base de datos en phpmyadmin con el nombre de votaciones el usuario es root y la clave esta vacia
+2.- Respecto a la versión de php soporta desde la version 5.4 y ha sido corrido hasta en php 8.1.6 sin problemas (la que se utilizó fue la 8.1.6)
+3.- La version de base de datos ocupada fue 5.2.0
+4.- La base de datos se encuentra en la carpeta sql
